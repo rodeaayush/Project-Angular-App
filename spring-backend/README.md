@@ -27,7 +27,7 @@ This guide provides step-by-step instructions for setting up and running a Sprin
     ```
 4. **Create Database Connection with backend:**
    ```bash
-   vim /src/main/resources/application.properties
+   nano /src/main/resources/application.properties
    ```
    Note: 1. add db-endpoint 2. username 3. password
    
